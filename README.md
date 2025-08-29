@@ -1,3 +1,4 @@
 # DSM441-G02T
 
-lo subi de manera comprimida ya que al pesar tanto la misma plataforma de Github no lo acepta asique por esta razon esta de solo descargar el proyecto Inge.
+# enlace a Figma con el diseño de la App del mundo verde del proyecto
+https://www.figma.com/proto/qXlPBqdId82ZNxeQ0vPMhF/Mockups-Ejemplo?node-id=0-1&t=cmYcOPdv6QXqB7MM-1
